@@ -139,6 +139,6 @@ acceptance.
 
 ## Resources
 - Push_swap subject specification (local class materials).
-- Standard references on sorting, radix sort, and complexity (Knuth, CLRS).
+- Standard references on sorting, radix sort, and complexity (Knuth,  CLRS).
 
 ---
